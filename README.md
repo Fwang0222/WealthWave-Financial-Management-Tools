@@ -1,0 +1,2 @@
+# Financial-Management-System
+A tool primarily used to manage finances, designed to help users track, analyze and manage their financial data. The system can include revenue and expenditure recording, budget management, financial statement generation, and other finance-related functions. It can help users better understand their financial situation and make informed financial decisions. The project is currently migrating from Java to Python to improve flexibility and compatibility.
